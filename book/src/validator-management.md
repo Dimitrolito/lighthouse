@@ -55,7 +55,7 @@ Each permitted field of the file is listed below for reference:
  validator "enabled".
 - `voting_public_key`: A validator public key.
 - `type`: How the validator signs messages (this can be `local_keystore` or `web3signer` (see [Web3Signer](./validator-web3signer.md))).
-- `voting_keystore_path`: The path to a EIP-2335 keystore.
+- `voting_keystore_path`: The path to an EIP-2335 keystore.
 - `voting_keystore_password_path`: The path to the password for the EIP-2335 keystore.
 - `voting_keystore_password`: The password to the EIP-2335 keystore.
 
