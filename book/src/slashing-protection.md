@@ -90,7 +90,7 @@ lighthouse account validator slashing-protection export filename.json
 ```
 
 The validator client needs to be stopped in order to export, to guarantee that the data exported is
-up to date.
+up-to-date.
 
 [EIP-3076]: https://eips.ethereum.org/EIPS/eip-3076
 
