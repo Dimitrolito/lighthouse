@@ -138,7 +138,7 @@ Holesky testnet:
 lighthouse vc --network holesky --suggested-fee-recipient YourFeeRecipientAddress
 ```
 
-The `validator client` manages validators using data obtained from the beacon node via a HTTP API. You are highly recommended to enter a fee-recipient by changing `YourFeeRecipientAddress` to an Ethereum address under your control.
+The `validator client` manages validators using data obtained from the beacon node via an HTTP API. You are highly recommended to enter a fee-recipient by changing `YourFeeRecipientAddress` to an Ethereum address under your control.
 
 When `lighthouse vc` starts, check that the validator public key appears
 as a `voting_pubkey` as shown below:
