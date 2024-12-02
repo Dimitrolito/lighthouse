@@ -47,7 +47,7 @@ the `--secrets-dir` (default `~/.lighthouse/{network}/secrets`).
 
 where `{network}` is the name of the consensus layer network passed in the `--network` parameter (default is `mainnet`).
 
-## Recover a EIP-2386 wallet
+## Recover an EIP-2386 wallet
 
 Instead of creating EIP-2335 keystores directly, an EIP-2386 wallet can be
 generated from the mnemonic. This wallet can then be used to generate validator
